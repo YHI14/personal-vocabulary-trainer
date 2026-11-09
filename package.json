@@ -1,0 +1,13 @@
+{
+  "name": "personal-vocabulary-trainer",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-application.mjs"
+  },
+  "devDependencies": {
+    "fake-indexeddb": "6.2.5",
+    "linkedom": "0.18.12"
+  }
+}

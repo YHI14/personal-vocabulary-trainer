@@ -1,0 +1,17 @@
+node_modules/
+dist/server/
+dist/.openai/
+worker/assets.generated.js
+.openai/
+*.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.xlsx
+*.csv
+*backup*.json
+*history*.json
+*evidence*.json
+*.tar.gz
